@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta content="text/html" charset="UTF-8">
+    <title>Video Streaming Demonstration</title>
+    <style>
+      .tab_box{
+  width:600px;
+  margin:30px auto;
+    z-index: 100;
+}
+.label_box{
+    z-index: 100;
+  padding-left:30px;
+  font-size:0;
+}
+.label_box li{
+  display:inline-block;
+  line-height:30px;
+  height:30px;
+  padding:0 10px;
+  margin:0 5px;
+  font-size:14px;
+  border:1px solid #2d9aff;
+  border-bottom:none;
+  border-top-left-radius:4px;
+  border-top-right-radius:4px;
+  cursor:pointer;
+}
+.label_box li.active{
+  background:#2d9aff;
+  color:#fff;
+}
+.content_box{
+  padding:20px;
+  border:1px solid #2d9aff;
+  border-radius:4px;
+  box-shadow:0px 0px 6px #aaa;
+}
+.content_box .content{
+  display:none;
+  height:300px;
+}
+    </style>
+  </head>
+
+  <body>
+    <h1>Video Streaming Demonstration</h1>
+    <!--<img src="{{ url_for('video_feed') }}">-->
+  <div id="tabBox" class="tab_box">
+  <ul class="label_box"><!--标签部分-->
+    <li>选项一</li>
+    <li>选项二</li>
+    <li>选项三</li>
+  </ul>
+  <div class="content_box"><!--内容部分-->
+    <div class="content">内容一</div>
+    <div class="content">内容二</div>
+    <div class="content">内容三</div>
+  </div>
+</div>
+  <script>
+    function primaryTab(){
+  //1.获取选项卡外包元素
+  var eTab = document.getElementById('tabBox');
+  //1.获取标签外包元素
+  var eLabel = eTab.getElementsByClassName('label_box')[0];
+  //1.获取所有标签元素的集合
+  var aLabels = eLabel.getElementsByTagName('li');
+  //1.获取内容外包元素
+  var eContent = eTab.getElementsByClassName('content_box')[0];
+  //1.获取所有内容元素的集合
+  var aContents = eContent.getElementsByClassName('content');
+  //2.给第一个标签元素添加active样式修改为激活状态
+  aLabels[0].className = 'active';
+  //2.把第一个内容元素通过样式display:bolock来显示
+  aContents[0].style.display = 'block';
+  //3.1 遍历标签，注意：本实例这里声明变量i只能用let，如果用var会出错
+  for(let i=0;i<aLabels.length;i++){
+    //3.1 给每一个标签添加点击事件
+    aLabels[i].onclick = function(){
+      //3.2 遍历标签
+      for(let n=0;n<aLabels.length;n++){
+        //3.2 把每一个标签的className改为空字符串，用于删除激活标签样式。
+        aLabels[n].className = '';
+        //3.3 因为标签元素和内容元素数量相同，所以可通过变量n把每一个内容元素通过样式设置为隐藏
+        aContents[n].style.display = 'none';
+      }
+      // 3.4 通过this找到当前标签元素，修改当前标签元素为激活状态。
+      this.className = 'active';
+      //3.5 通过变量i找到对应的内容元素，并通过样式设置为显示。
+      aContents[i].style.display = 'block';
+    }
+  }
+}
+//调用选项卡函数
+primaryTab();
+</script>
+  </body>
+</html>

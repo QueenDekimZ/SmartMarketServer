@@ -1,0 +1,1140 @@
+2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:-1  , remote_file_size:-1 
+ 2020-10-27 ---> F:/qqdownload/fanshu/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0000.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:-1  , remote_file_size:-1 
+ 2020-10-27 ---> F:/qqdownload/fanshu/0000.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/0000.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:-1  , remote_file_size:-1 
+ 2020-10-27 ---> F:/qqdownload/0000.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0000.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:-1  , remote_file_size:-1 
+ 2020-10-27 ---> F:/qqdownload/fanshu/0000.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:-1  , remote_file_size:-1 
+ 2020-10-27 ---> F:/qqdownload/fanshu/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> 下载文件出错，出现异常：550 Error  
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> 下载文件出错，出现异常：550 Error  
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:0  , remote_file_size:-1 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> 下载文件出错，出现异常：550 Error  
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:0  , remote_file_size:-1 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> 下载文件出错，出现异常：550 Error  
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:0  , remote_file_size:-1 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> 下载文件出错，出现异常：550 Error  
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:0  , remote_file_size:-1 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> 下载文件出错，出现异常：550 Error  
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = /system/ftproot/aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:0  , remote_file_size:-1 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> 下载文件出错，出现异常：550 Error  
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:0  , remote_file_size:64240 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:64240  , remote_file_size:81726 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:81726  , remote_file_size:89412 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:89412  , remote_file_size:98982 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:98982  , remote_file_size:98982 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:98982  , remote_file_size:44494 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:44494  , remote_file_size:50675 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:50675  , remote_file_size:50734 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:50734  , remote_file_size:50811 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:50811  , remote_file_size:47453 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:47453  , remote_file_size:51893 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:51893  , remote_file_size:81913 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:81913  , remote_file_size:68368 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:68368  , remote_file_size:96586 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:96586  , remote_file_size:80050 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:80050 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:80050 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:80050 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:80050 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:80050 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:80050 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:80050 
+ 2020-10-27 ---> F:/qqdownload/fanshu/templates/0001.jpg 文件大小相同，无需下载 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:80050  , remote_file_size:48333 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:48333  , remote_file_size:61691 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:61691  , remote_file_size:62024 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:62024  , remote_file_size:58853 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:58853  , remote_file_size:58996 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:58996  , remote_file_size:86573 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:86573  , remote_file_size:84077 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:84077  , remote_file_size:56803 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:54998  , remote_file_size:75399 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:75399  , remote_file_size:55681 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:55681  , remote_file_size:51877 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:52075  , remote_file_size:52593 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:52593  , remote_file_size:52942 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:52942  , remote_file_size:53020 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:53020  , remote_file_size:58091 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:45056  , remote_file_size:61939 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:20480  , remote_file_size:55362 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:55362  , remote_file_size:71423 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:71423  , remote_file_size:83674 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:12288  , remote_file_size:90488 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:90488  , remote_file_size:89614 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:89614  , remote_file_size:70772 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:70772  , remote_file_size:50002 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:50002  , remote_file_size:45056 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:56965  , remote_file_size:84744 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:84744  , remote_file_size:67116 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:67116  , remote_file_size:67139 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:67139  , remote_file_size:68629 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:68629  , remote_file_size:68538 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:68538  , remote_file_size:54060 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:54060  , remote_file_size:67113 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:67113  , remote_file_size:54237 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:12288  , remote_file_size:63870 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:63870  , remote_file_size:63972 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:63972  , remote_file_size:73162 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:73162  , remote_file_size:53881 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-27 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-27 ---> 成功连接到 192.168.0.112 
+ 2020-10-27 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-27 ---> 成功登录到 192.168.0.112 
+ 2020-10-27 ---> 220 Operation successful 
+ 2020-10-27 ---> download_file()---> local_path = F:/qqdownload/fanshu/templates/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-27 ---> local_file_size:53881  , remote_file_size:48583 
+ 2020-10-27 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/templates/0001.jpg ... ... 
+ 2020-10-27 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:48583  , remote_file_size:55753 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:55753  , remote_file_size:55473 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:55473  , remote_file_size:56103 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:56103  , remote_file_size:63320 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:63320  , remote_file_size:70329 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:70329  , remote_file_size:71237 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:71237  , remote_file_size:71166 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:71166  , remote_file_size:71631 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:71631  , remote_file_size:76518 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:76518  , remote_file_size:65581 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:65581  , remote_file_size:70137 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:70137  , remote_file_size:70030 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:70030  , remote_file_size:74357 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:74357  , remote_file_size:36864 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:53248  , remote_file_size:55745 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:55745  , remote_file_size:54813 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:54813  , remote_file_size:93859 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:93859  , remote_file_size:93523 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:93523  , remote_file_size:70009 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:70009  , remote_file_size:56735 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:56735  , remote_file_size:4096 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:56735  , remote_file_size:4096 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:56735  , remote_file_size:4096 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:0  , remote_file_size:4096 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:0  , remote_file_size:4096 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:4096 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:4096  , remote_file_size:73378 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:73378  , remote_file_size:73789 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:73789  , remote_file_size:78558 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:78558  , remote_file_size:78715 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:78715  , remote_file_size:80251 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:80251  , remote_file_size:62821 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:62821  , remote_file_size:62718 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:62718  , remote_file_size:52995 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:28672  , remote_file_size:102970 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:15340  , remote_file_size:98480 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:99238  , remote_file_size:98516 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:98516  , remote_file_size:98505 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:98505  , remote_file_size:106796 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:106796  , remote_file_size:99994 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:99994  , remote_file_size:99994 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:99994  , remote_file_size:99994 
+ 2020-10-29 ---> F:/qqdownload/fanshu/static/0001.jpg 文件大小相同，无需下载 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:99994  , remote_file_size:94208 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:110360  , remote_file_size:90012 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:90012  , remote_file_size:100626 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:100626  , remote_file_size:100793 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 2020-10-29 ---> 开始尝试连接到 192.168.0.112 
+ 2020-10-29 ---> 成功连接到 192.168.0.112 
+ 2020-10-29 ---> 开始尝试登录到 192.168.0.112 
+ 2020-10-29 ---> 成功登录到 192.168.0.112 
+ 2020-10-29 ---> 220 Operation successful 
+ 2020-10-29 ---> download_file()---> local_path = F:/qqdownload/fanshu/static/0001.jpg ,remote_path = aa/camera/0001.jpg 
+ 2020-10-29 ---> local_file_size:100793  , remote_file_size:57178 
+ 2020-10-29 ---> >>>>>>>>>>>>下载文件 F:/qqdownload/fanshu/static/0001.jpg ... ... 
+ 2020-10-29 ---> close()---> FTP退出 
+ 

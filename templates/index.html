@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>智慧零售监控平台</title>
+    <link rel="stylesheet" type="text/css" href="static/css/basic.css">
+    <style type="text/css">
+        body, html, #container {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            margin: 0;
+            font-family: "微软雅黑";
+            position: absolute;
+        }
+
+        .de {
+            position: absolute;
+            z-index: 30;
+            left: 20px;
+            top: 20px;
+            width: 320px;
+            height: 240px;
+        }
+
+        .title {
+            position: absolute;
+            z-index: 50;
+            right: 45%;
+            text-align: center;
+            font-size: xx-large;
+            color: #fcfcfc;
+        }
+
+        /*.data1 {*/
+        /*position: absolute;*/
+        /*z-index: 100;*/
+        /*right: 10%;*/
+        /*text-align: center;*/
+        /*font-size: x-large;*/
+
+        /*color: deepskyblue;*/
+        /*}*/
+    </style>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=YpGjPKfwIQSf8orsrtst75Dak8GAWoOC">
+    </script>
+</head>
+
+<!--智慧零售监控平台-->
+<body>
+<div id="container"></div>
+<p class="title">智慧零售监控平台</p>
+
+<div id="tabBox" class="tab_box">
+  <ul class="label_box"><!--标签部分-->
+    <li>一号机</li>
+    <li>二号机</li>
+    <li>三号机</li>
+  </ul>
+  <div class="content_box"><!--内容部分-->
+    <div class="content">内容一</div>
+    <div class="content">内容二</div>
+    <div class="content">
+            <table border="1">
+        <tr>
+            <th colspan="3">3号贩卖机<br>地点：第四教学楼</th>
+        </tr>
+        <tr>
+            <td>商品</td>
+            <td>余量</td>
+        </tr>
+        <tr>
+            <td>矿泉水</td>
+            <td><input class="no1_machine" type="text" id="SURPLUS_1" name="SURPLUS_1" disabled>
+            </td>
+        </tr>
+        <tr>
+            <td>脉动</td>
+            <td><input class="no1_machine" type="text" id="SURPLUS_2" name="SURPLUS_2" disabled>
+            </td>
+        </tr>
+        <tr>
+            <td>红牛</td>
+            <td><input class="no1_machine" type="text" id="SURPLUS_3" name="SURPLUS_3" disabled>
+            </td>
+        </tr>
+    </table>
+
+    </div>
+  </div>
+</div>
+
+
+<!--<div class="machine_board">-->
+
+
+
+<!--</div>-->
+<!--<form method="GET">-->
+<!---->
+<!--</form>-->
+<div class="de">
+    <!--<video id="video" width="600px" height="250x" autoplay="autoplay" style="width: 100%; height: 100%; object-fit: fill"></video>-->
+    <!--<canvas id="canvas" width="600px" height="250px" style="opacity: 0.2"></canvas>-->
+    <!--<h1>Video Streaming Demonstration</h1>-->
+
+    <!--<img src="{{ url_for('video_feed') }}" style="width: 100%; height: 100%; object-fit: fill">-->
+    <img id="new_img" src="../static/0001.jpg" style="width: 100%; height: 100%; object-fit: fill">
+
+</div>
+
+
+<script>
+       $(document).ready(function () {
+        setInterval(function() {
+           $('#new_img').attr('src',src='../static/0001.jpg?r='+Math.random());
+            // document.getElementById('new_img').src='0001.jpg';
+
+        }, 2000);
+    });
+
+    window.setInterval(function () {
+        $.ajax({
+            url: "/machine_1_handler",
+            type: "POST",
+            dataType: "json",
+            // data: {a:SURPLUS_1},
+            success: function (result) {
+                $("#SURPLUS_1").val(result.aa)
+                // console.log(result)
+            }
+
+
+        })
+    }, 500)
+    function primaryTab(){
+  //1.获取选项卡外包元素
+  var eTab = document.getElementById('tabBox');
+  //1.获取标签外包元素
+  var eLabel = eTab.getElementsByClassName('label_box')[0];
+  //1.获取所有标签元素的集合
+  var aLabels = eLabel.getElementsByTagName('li');
+  //1.获取内容外包元素
+  var eContent = eTab.getElementsByClassName('content_box')[0];
+  //1.获取所有内容元素的集合
+  var aContents = eContent.getElementsByClassName('content');
+  //2.给第一个标签元素添加active样式修改为激活状态
+  aLabels[0].className = 'active';
+  //2.把第一个内容元素通过样式display:bolock来显示
+  aContents[0].style.display = 'block';
+  //3.1 遍历标签，注意：本实例这里声明变量i只能用let，如果用var会出错
+  for(let i=0;i<aLabels.length;i++){
+    //3.1 给每一个标签添加点击事件
+    aLabels[i].onclick = function(){
+      //3.2 遍历标签
+      for(var n=0;n<aLabels.length;n++){
+        //3.2 把每一个标签的className改为空字符串，用于删除激活标签样式。
+        aLabels[n].className = '';
+        //3.3 因为标签元素和内容元素数量相同，所以可通过变量n把每一个内容元素通过样式设置为隐藏
+        aContents[n].style.display = 'none';
+      }
+      // 3.4 通过this找到当前标签元素，修改当前标签元素为激活状态。
+      this.className = 'active';
+      //3.5 通过变量i找到对应的内容元素，并通过样式设置为显示。
+      aContents[i].style.display = 'block';
+    }
+  }
+}
+//调用选项卡函数
+primaryTab();
+</script>
+<script type="text/javascript" src="static/js/baiduMap.js"></script>
+<!--<script type="text/javascript" src="js/video.js"></script>-->
+</body>
+</html>

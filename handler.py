@@ -3,7 +3,8 @@
 import numpy as np
 import tensorflow as tf
 from flask import Flask, request, render_template, redirect, Response
-
+from flask_script import Manager
+from flask_sqlalchemy import SQLAlchemy
 # from flask_uploads import configure_uploads, UploadSet
 # from werkzeug.wrappers import Response, Request
 from utils import label_map_util
@@ -12,6 +13,9 @@ from utils import visualization_utils as vis_util
 import json
 import cv2
 import os
+import pymysql
+
+pymysql.install_as_MySQLdb()
 # cap = cv2.VideoCapture(0)
 # cap.set(10,200)
 
@@ -91,9 +95,24 @@ class VideoCamera(object):
 			f.write(str(bottle_count))
 		return jpeg.tobytes()
 
-# app = Flask(__name__, static_folder='./static')
-app = Flask(__name__)
+db = SQLAlchemy()
+class Smartmarket(db.Model):
+    __tablename__ = 'smartmarket'
 
+    MachineNo = db.Column(db.Integer, primary_key=True)
+    WaterNum = db.Column(db.Integer, nullable=False)
+    MaidongNum = db.Column(db.Integer, nullable=False)
+    RedbullNum = db.Column(db.Integer, nullable=False)
+
+class Application(Flask):
+    def __init__(self, import_name):
+        super(Application, self).__init__(import_name)
+        self.config.from_pyfile('local_setting.py')
+        db.init_app(self)
+# app = Flask(__name__, static_folder='./static')
+app = Application(__name__)
+manager = Manager( app )
+# from model import Smartmarket
 
 @app.route('/')  # 主页
 def index():
@@ -132,18 +151,33 @@ def syn_image():
 # 监控平台获取数据
 @app.route('/machine_1_handler', methods=["GET","POST"])
 def machine_1_handler():
-	with open('data1.txt', 'rt') as f:     # 获取当前余量数据
-		data1["aa"] = f.read()
+	# with open('data1.txt', 'rt') as f:     # 获取当前余量数据
+	# 	data1["aa"] = f.read()
+	machine_1_water = Smartmarket.query.filter_by(MachineNo = 1).first()
+	machine_2_water = Smartmarket.query.filter_by(MachineNo = 2).first()
+	machine_3_water = Smartmarket.query.filter_by(MachineNo = 3).first()
 	# xxx += 1
 	# data1["aa"] = str(xxx)
+	data1["num1_1"] = str(machine_1_water.WaterNum)
+	data1["num1_2"] = str(machine_1_water.MaidongNum)
+	data1["num1_3"] = str(machine_1_water.RedbullNum)
+	data1["num2_1"] = str(machine_2_water.WaterNum)
+	data1["num2_2"] = str(machine_2_water.MaidongNum)
+	data1["num2_3"] = str(machine_2_water.RedbullNum)
+	data1["num3_1"] = str(machine_3_water.WaterNum)
+	data1["num3_2"] = str(machine_3_water.MaidongNum)
+	data1["num3_3"] = str(machine_3_water.RedbullNum)
 	return json.dumps(data1)
+
 	# SURPLUS_1 = request.args.get('a')
 	# data1["aa"] = str(bottle_count)
+
+
 from ftpdownload import MyFTP
 # 小程序端获取数据
 @app.route('/remainBottle', methods=["POST","GET"])
 def remainBottle():
-	my_ftp = MyFTP("192.168.0.101")
+	my_ftp = MyFTP("192.168.0.112")
 	my_ftp.login("root", "newland000997")
 	# 下载单个文件
 	my_ftp.download_file("F:/qqdownload/fanshu/static/0001.jpg", "aa/camera/0001.jpg")
@@ -166,8 +200,13 @@ def remainBottle():
 																			 use_normalized_coordinates=True,
 																			 line_thickness=8)
 	ret, jpeg = cv2.imencode('.jpg', image_np)
-	with open('data1.txt', 'wt') as f:  # 将余量数据保存到txt
-		f.write(str(bottle_count))
+	machine_1_water = Smartmarket.query.filter_by(MachineNo = 1).first()
+	if machine_1_water:
+		machine_1_water.WaterNum = bottle_count
+		db.session.add(machine_1_water)
+		db.session.commit()
+	# with open('data1.txt', 'wt') as f:  # 将余量数据保存到txt
+	# 	f.write(str(bottle_count))
 
 	# totalBottle = 6
 	# money = request.files['content']
@@ -177,8 +216,10 @@ def remainBottle():
 	# 	app.logger.info("*******还剩%s瓶饮料 ******" % numRemain)
 
 	# return numRemain
+	# return str(machine_1_water.WaterNum)
 	return str(bottle_count)
 
 if __name__ == '__main__':
-	app.run(host='127.0.0.1', debug=True, port=8000)
+	# app.run(host='192.168.0.110', debug=True, port=8000)
+	app.run(host='192.168.0.108', debug=True, port=8000)
 
